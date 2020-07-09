@@ -1,1 +1,3 @@
-# ciudadanob
+# ¿De qué es la B de CiudadanoB?
+
+De eso aún no he escrito en mi web, pero podéis pasaros por [mi blog](https://ciudadanob.com) donde escribo sobre mi vida personal, mi vida profesional, WordPress, la web abierta, privacidad, baloncesto, viajes…
